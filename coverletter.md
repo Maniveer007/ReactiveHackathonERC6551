@@ -4,6 +4,8 @@ Gmail : maniveer198@gmail.com
 
 Github : [Maniveer007](https://github.com/Maniveer007)
 
+NOTE : to make this project execute to idustry standards we need to maintain unique address of registry contract on different chains which we can achieve with axelar create2 address but it doesnt support Avalanche C-Chain and Manta Pacific thats the main reason why we havent deployed our contracts on those chains
+
 ### Overview
 
 Basic ERC-6551 enables Token Bound Accounts on same chain
